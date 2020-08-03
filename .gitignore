@@ -1,11 +1,7 @@
-# directories
-DATA1/
-DATA2/
-DATA3/
-DATA_new/
+# directories de données
+DATA*/
 FME/
-IMAGES/
-IMAGES3/
+IMAGES*
 OLD/
 PDAL/
 RESULTS
@@ -14,13 +10,10 @@ dataDalles/
 datasets/
 .ipynb_checkpoints/
 
-# files
+# fichiers logs
 .log
-.DS_Store
-# BatchLampadaire*
-BatchLampadaire.xlsx
-BatchLampadaire.csv
-BatchLampadaire.bat
-donnees_IMAC_LAS_1k_1k.csv
-donnees_LAS_Numpy_3500.npy
-donnees_LAS_1k_1k.csv
+# .DS_Store
+
+# fichiers particuliers   .csv .xlsx ....  .npy
+BatchLampadaire*
+donnees_*
