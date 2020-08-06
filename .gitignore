@@ -17,3 +17,6 @@ datasets/
 # fichiers particuliers   .csv .xlsx ....  .npy
 BatchLampadaire*
 donnees_*
+DOCUMENTATION/EMS.svg
+DOCUMENTATION/Rapport_Instructions_v0-1.*
+DOCUMENTATION/Rapport_Instructions_v0-2.tex
